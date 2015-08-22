@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Resistor Value Finder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_app">About App</string>
+    <string name="dev">By SP Developer</string>
+    <string name="bug">For any Bug report:</string>
+    <string name="email">spdeveloper28@gmail.com</string>
+    <string name="exit">Exit</string>
+    <string name="black">0-Black</string>
+    <string name="brown">1-Brown</string>
+    <string name="red">2-red</string>
+    <string name="orange">3-Orange</string>
+    <string name="yellow">4-Yellow</string>
+    <string name="green">5-Green</string>
+    <string name="blue">6-Blue</string>
+    <string name="violet">7-Violet</string>
+    <string name="gray">8-Gray</string>
+    <string name="white">9-White</string>
+    <string name="hnt">Enter Resistor Value</string>
+    <string name="btn">Find</string>
+    <string name="btnhnd">Find Resistor Value</string>
+    <string name="kohm">0 Kohm</string>
+    <string name="ohm">0 ohm</string>
+
+</resources>
